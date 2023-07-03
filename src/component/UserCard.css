@@ -1,0 +1,11 @@
+.usercard{
+    border: 1px solid black;
+    border-radius: .5rem;
+    min-width: 400px;
+    margin: auto;
+    padding: .5rem;
+    
+}
+.usercard img{
+    width: 100px;
+}
